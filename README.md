@@ -1,4 +1,4 @@
-# Breast-Cancer-Detection
+# Breast-Cancer-Detection-using-deep-neural-networks
 
 Building a detection model using a convolutional neural network in Tensorflow & Keras.
 
