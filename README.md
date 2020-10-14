@@ -1,3 +1,5 @@
 # Breast-Cancer-Detection
-In the first project, I trained a very simple model to estimate the number of layers, hyper parameters, preprocessing mehods, which are needed to reach a higher accuracy.
-In the second one (BCD2), the accuracy result had a considerable rise to 83%. however, the project has not been completed yet.
+Building a detection model using a convolutional neural network in Tensorflow & Keras.
+Used a Breast images dataset founded on Kaggle. You can find it on https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/.
+About the data:
+The dataset contains 2 folders: Malignant and Benign Images(2,480  benign and 5,429 malignant samples).
